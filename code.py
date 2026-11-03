@@ -1,4 +1,4 @@
-#Name:Devanshu Kumar Tandan
+#Name:Gauri Sahu 
 #ERP=RU-26-01373
 # P.S=77 "Hospital Management Scheduler"
 from datetime import datetime
