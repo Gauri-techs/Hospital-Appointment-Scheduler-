@@ -1,6 +1,6 @@
 #Name:Gauri Sahu 
 #ERP=RU-26-01373
-# P.S=77 "Hospital Management Scheduler"
+# P.S=77 "Hospital Appointment Scheduler"
 from datetime import datetime
 
 # Global dictionary storing appointments: {appt_id: appointment_data}
