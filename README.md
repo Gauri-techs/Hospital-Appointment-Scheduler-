@@ -1,4 +1,4 @@
-# Clinic Appointment System
+# Hospital Appointment Scheduler
 
 A lightweight, command-line Python application for managing clinic appointments. It supports booking, viewing, rescheduling, and canceling appointments with built-in date/time validation and doctor double-booking prevention.
 
